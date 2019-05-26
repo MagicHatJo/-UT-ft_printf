@@ -23,5 +23,3 @@ or
 ```
 ./printf_unit_tester
 ```
-### Credits
-Original libunit framework was done as a group rush project with asarandi at 42.
