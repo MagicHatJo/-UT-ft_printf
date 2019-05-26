@@ -1,0 +1,24 @@
+# Compiled Sources #
+####################
+framework/obj
+tests/obj
+obj
+ft_printf_unit_test
+*.out
+*.o
+*.d
+*.swp
+*.gch
+*.dSYM*
+
+# OS Generated #
+################
+.DS_Store
+.DS_Store?
+.vscode
+._*
+
+# Test files #
+##############
+ft_printf
+notes.txt
