@@ -1,4 +1,4 @@
-# [UnitTester] printf
+# [UnitTester] ft_printf
 
 A basic unit tester for checking ft_printf, a 42 project recreating the functionalities of printf. The tests are split into basic functionalities, extended functionalities, modifiers, mixed tests, and extras. This was built as a more complete version of the 42 unit test framework rush.
 
